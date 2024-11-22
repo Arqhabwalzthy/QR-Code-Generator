@@ -4,11 +4,12 @@ URLs, or other data in the form of QR codes.
 
 Features:
 
-Input text or URL to generate QR codes.
-Save generated QR codes as image files (e.g., PNG, SVG).
-Easy to use and lightweight.
+1. Input text or URL to generate QR codes.
+2. Save generated QR codes as image files (e.g., PNG, SVG).
+3. Easy to use and lightweight.
+
 Technologies Used:
 
-Node.js: Backend runtime for building the application.
-qr-image: For generating QR codes.
-File System (fs): For saving QR code image files.
+1. Node.js: Backend runtime for building the application.
+2. qr-image: For generating QR codes.
+3. File System (fs): For saving QR code image files.
